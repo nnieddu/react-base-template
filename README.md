@@ -1,7 +1,8 @@
 # Simple react template to start a project faster  
   
 All packages in package.json up to date (last version at the last commit time).  
-Add open graph and other SEO friendly things, add max favicon / logo compatibily for all browser / webapp (ex: saved signet on iphone desktop).  
+Add open graph and other SEO friendly things, add max favicon / logo compatibily for all browser / webapp  
+(ex: saved signet on iphone desktop).  
 Add /styles/ , /assets/ and /components/ folders in src by default  
 Add SASS by default for styling.  
   
